@@ -18,6 +18,14 @@ Get the latest macOS release from [Releases](https://github.com/midnightai-apps/
 - Work with projects stored on your Mac.
 - Choose English or Korean from the Language menu.
 
+## Updates
+
+Starting with version 1.0.1, Midnight ERD checks for updates and downloads them automatically. Updates are applied after you quit the app.
+
+To check manually, choose **Help → Check for updates**.
+
+If you have version 1.0.0, install the latest DMG once to receive automatic updates.
+
 ## Support
 
 Email: midnightai@midnightai.net
@@ -42,6 +50,14 @@ Email: midnightai@midnightai.net
 - Local MCP로 AI 도구 연결
 - Mac에 프로젝트 저장
 - Language 메뉴에서 영어·한국어 선택
+
+### 업데이트
+
+1.0.1부터 새 버전을 자동으로 확인하고 다운로드합니다. 업데이트는 앱을 종료한 뒤 적용됩니다.
+
+직접 확인하려면 **도움말 → 업데이트 확인**을 선택하세요.
+
+1.0.0을 사용 중이라면 최신 DMG로 한 번 설치해 주세요. 이후에는 자동 업데이트를 받을 수 있습니다.
 
 문의: midnightai@midnightai.net
 
