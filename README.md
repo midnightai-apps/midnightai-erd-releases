@@ -75,10 +75,6 @@ If you have **1.0.0**, install the latest DMG once to start receiving automatic 
 
 Choose **Language → English / 한국어** from the menu bar.
 
-### Support
-
-[midnightai@midnightai.net](mailto:midnightai@midnightai.net)
-
 ---
 
 ## 한국어
@@ -153,7 +149,3 @@ Local MCP로 외부 AI 클라이언트를 연결하면, 실행 중인 앱의 ERD
 ### 언어 선택
 
 메뉴바의 **언어 → English / 한국어**에서 바꿀 수 있어요.
-
-### 문의
-
-[midnightai@midnightai.net](mailto:midnightai@midnightai.net)
